@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuk.moyens.net%2Fhow-to%2Fhow-to-create-an-animated-gif-from-your-android-smartphone%2F&psig=AOvVaw3wPW4bCRhrR_mv9OvoOIFk&ust=1667854261057000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDX_Ly3mvsCFQAAAAAdAAAAABAD)](google.com)
 <h3 align="center">My name is Oleksandr and I am Android junior developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shevsan&label=Profile%20views&color=0e75b6&style=flat" alt="shevsan" /> </p>
